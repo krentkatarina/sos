@@ -1,0 +1,65 @@
+.quote__card {
+    border-radius: 10px;
+    background-color: #FFFFFF14;
+    padding: 14px 40px 21px 16px;
+    max-width: 450px;
+    position: relative;
+}
+.quote__card::after {
+    position: absolute;
+    content: url(../../../../images/twiiter.png);
+    top: 30px;
+    right: 21px;
+}
+.quote__card-row {
+    display: flex;
+    margin: 0 0 20px 0;
+}
+.quote__card-left {
+    border-radius: 50%;
+    background-color: #FFB548;
+    margin: 0 25px 0 0;
+    position: relative;
+    width: 65px;
+    height: 65px;
+}
+.quote__card-right {
+
+}
+.quote__card-image {
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: -7px;
+    max-width: 65px;
+    object-fit: cover;
+}
+.quote__card-subtitle {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 22px;
+}
+.quote__card-title {
+    color: #FFB548;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 500;
+   letter-spacing: 3px;
+}
+.quote__card-description {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 24.51px;
+    margin: 0 0 10px 0;
+}
+.quote__card-date {
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 19px;
+}
+@media(max-width:786px) {
+    .quote__card {
+        max-width: 100%;
+    }
+}

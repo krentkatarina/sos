@@ -1,0 +1,45 @@
+.requirements {
+
+}
+.requirements__container {
+    max-width: 1400px;
+    padding: 145px 10px 171px 120px;
+    margin: 0 auto;
+    background: url("../../images/requirements.jpg") 0 0 / cover no-repeat;
+}
+.requirements__subtitle {
+    text-align: center;
+}
+.requirements__title {
+    text-align: center;
+    margin: 0 0 133px 0;
+}
+.requirements__content {
+    max-width: 580px;
+}
+.requirements__row {
+    display: flex;
+}
+@media(max-width:786px) {
+    .requirements__container {
+        padding: 70px 10px 50px 10px; 
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .requirements__title {
+        margin: 0 0 40px 0;
+    }
+}
+@media(max-width:480px) {
+    .requirements__row {
+        display: flex;
+        flex-direction: column;
+    }
+    .requirements__title {
+        margin: 0 0 30px 0;
+    }
+    .requirements__container {
+        background: url("../../images/requirements.jpg") 50% 50% / cover no-repeat;
+    }
+}

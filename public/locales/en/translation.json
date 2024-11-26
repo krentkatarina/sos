@@ -1,0 +1,67 @@
+{
+    "title": "SURVIVE AT ALL COSTS",
+    "description": "Experience new social battle royale game",
+    "mainButton": "Buy now on Steam",
+    "price": "$14.99",
+    "headerItem1": "Main",
+    "headerItem2": "about",
+    "headerItem3": "game features",
+    "headerItem4": "System requirements",
+    "headerItem5": "quotes",
+    "featuresTitle": "features",
+    "featuresSubtitle": "What’s so special?",
+    "faq": [
+        {
+          "question": "Survive at all costs",
+          "answer": "You have 30 minutes to find a relic, signal for extraction, and grab one of three spots on the rescue chopper."
+        },
+        {
+          "question": "Create allies and enemies",
+          "answer": "Strategize and form temporary alliances, but be prepared to face betrayals."
+        },
+        {
+          "question": "Impress the audience",
+          "answer": "Engage with the audience and earn their votes for a second chance."
+        }
+      ],
+   
+    "battleTitle": "social battle royale game",
+    "battleSubtitle": "What is SOS?",
+    "battleDescription1": "Each round, you and 15 other contestants compete to escape a deadly island filled with monsters. The trick is: three people can survive. Will you run solo or form friendships with others to escape? ",
+    "battleDescription2": "Making the right decisions could be the difference between life and death.",
+    "requirementsTitle": "system requirements",
+    "requirementsSubtitle": "Can My Computer Run this game?",
+    "requirementsOSTitle": "OS:",
+    "requirementsOSDesc": "Windows 7 64-bit only (No OSX support at this time)",
+    "requirementsProcessorTitle": "pROCESSOR:",
+    "requirementsProcessorDesc": "Intel Core 2 Duo @ 2.4 GHZ or AMD Athlon X2 @ 2.8 GHZ",
+    "requirementsMemoryTitle": "mEMORY:",
+    "requirementsMemoryDesc": "8 GB RAM",
+    "requirementsStorageTitle": "storage:",
+    "requirementsStorageDesc": "8 GB available space",
+    "requirementsGraphicsTitle": "GRAPHICS:",
+    "requirementsGraphicsDesc": "NVIDIA GeForce GTX 660 2GB or AMD Radeon HD 7850 2GB DirectX11 (Shader Model 5)",
+    "newsletterTitle": "newsletter SUBSCRIBE ",
+    "newsletterSubtitle": "Want to stay in touch?",
+    "newsletterDesc": "In order to start receiving our news, all you have to do is enter your email address. Everything else will be taken care of by us. We will send you emails containing information about game. We don’t spam.",
+    "newsletterButton": "Subscribe now",
+    "quoteTitle": "Press quotes",
+    "quoteSubtitle": "What people think?",
+    "quoteDesc": "Our goal is to create a product and service that you’re satisfied with and use it every day. This is why we’re constantly working on our services to make it better every day and really listen to what our users has to say.",
+    "quoteButton": "read more testimonials",
+    "quoteCardD1": "“One of my gaming highlights of the year.”",
+    "quoteCardD2": "“The next big thing in the world of streaming and survival games.”",
+    "quoteCardD3": "“Snoop Dogg Playing The Wildly Entertaining ‘SOS’ Is Ridiculous.”",
+    "quoteCardP1": "PC Gamer",
+    "quoteCardP2": "Nerdreactor",
+    "quoteCardP3": "Uproxx",
+    "quoteCardT1": "October 18, 2018",
+    "quoteCardT2": "December 21, 2018",
+    "quoteCardT3": "December 24, 2018",
+    "footerL1": "MAIN",
+    "footerL2": "about",
+    "footerL3": "game features",
+    "footerL4": "System requirements",
+    "footerL5": "quotes",
+    "footerInfo": " © 2018 Outpost Games, Inc. All Rights Reserved"
+  }
