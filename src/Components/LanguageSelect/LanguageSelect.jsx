@@ -8,7 +8,6 @@ const LanguageSelect = () => {
 
   const languages = [
     { code: 'en', label: 'ENG' },
-    { code: 'ru', label: 'RUS' },
     { code: 'de', label: 'DEU' },
   ];
 
